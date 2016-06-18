@@ -1,2 +1,1 @@
 # sonic
-My personal assistant
