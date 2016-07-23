@@ -25,3 +25,4 @@ _testmain.go
 
 .DS_Store
 config.ini
+queries.go
